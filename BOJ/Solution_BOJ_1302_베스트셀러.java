@@ -33,8 +33,6 @@ public class Solution_BOJ_1302_베스트셀러 {
 		 }
 
 
-
-
 	}
 
 }
