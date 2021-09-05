@@ -35,7 +35,5 @@ public class Solution_BOJ_12865_평범한배낭 {
 			}
 		}
 		System.out.println(max);
-		
 	}
-
 }
