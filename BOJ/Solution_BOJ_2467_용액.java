@@ -36,7 +36,7 @@ public class Solution_BOJ_2467_용액 {
 			else right--;
 			
 		}
-		
+	
 		System.out.println(ans1+" "+ans2);
 	}
 
