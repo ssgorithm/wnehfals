@@ -105,3 +105,5 @@
 - BOJ 1789 수들의 합 (실버5) <br>
 - BOJ 10610 30 (실버5) <br>
 - BOJ 11557 Yangjojang of The Year (실버5) <br>
+- BOJ 1461 도서관 (골드5) <br>
+- BOJ 2212 센서 (골드5) <br>
